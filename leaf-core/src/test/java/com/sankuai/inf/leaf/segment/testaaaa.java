@@ -15,7 +15,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class IDGenServiceTest {
-    IDGen idGen;
+    IDGen idGen;//aaa
     DruidDataSource dataSource;
     @Before
     public void before() throws IOException, SQLException {
